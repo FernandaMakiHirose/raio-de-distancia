@@ -7,6 +7,9 @@
 - IntelliJ Community
 - Heroku CLI
 
+## Licença
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
+
 ## DataBase
 
 ### Postgres
